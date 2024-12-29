@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lamch\\source\\repos\\MiniStop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D48DC7D1-34BE-4438-8FB6-724120A018A8}|MiniStop\\MiniStop.csproj|c:\\users\\lamch\\source\\repos\\ministop\\ministop\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48DC7D1-34BE-4438-8FB6-724120A018A8}|MiniStop\\MiniStop.csproj|solutionrelative:ministop\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48DC7D1-34BE-4438-8FB6-724120A018A8}|MiniStop\\MiniStop.csproj|C:\\Users\\lamch\\source\\repos\\MiniStop\\ministop\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48DC7D1-34BE-4438-8FB6-724120A018A8}|MiniStop\\MiniStop.csproj|solutionrelative:ministop\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48DC7D1-34BE-4438-8FB6-724120A018A8}|MiniStop\\MiniStop.csproj|C:\\Users\\lamch\\source\\repos\\MiniStop\\ministop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D48DC7D1-34BE-4438-8FB6-724120A018A8}|MiniStop\\MiniStop.csproj|solutionrelative:ministop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 182,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\lamch\\source\\repos\\MiniStop\\MiniStop\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "MiniStop\\ChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\lamch\\source\\repos\\MiniStop\\MiniStop\\ChiTietDonHang.cs",
+              "RelativeToolTip": "MiniStop\\ChiTietDonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:41:07.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\lamch\\source\\repos\\MiniStop\\MiniStop\\Model1.cs",
+              "RelativeDocumentMoniker": "MiniStop\\Model1.cs",
+              "ToolTip": "C:\\Users\\lamch\\source\\repos\\MiniStop\\MiniStop\\Model1.cs",
+              "RelativeToolTip": "MiniStop\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:47:47.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lamch\\source\\repos\\MiniStop\\MiniStop\\Form1.cs",
+              "RelativeDocumentMoniker": "MiniStop\\Form1.cs",
+              "ToolTip": "C:\\Users\\lamch\\source\\repos\\MiniStop\\MiniStop\\Form1.cs [Design]",
+              "RelativeToolTip": "MiniStop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:45:48.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
