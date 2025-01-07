@@ -50,7 +50,6 @@ namespace Do_An.GUI
 
         private void iconPictureBox1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello");
             if (!isShow)
             {
                 // Nếu checkbox được tick, hiển thị mật khẩu
