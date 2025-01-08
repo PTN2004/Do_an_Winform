@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PhamNgocTu\\Do_An\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|d:\\phamngoctu\\do_an\\do_an.gui\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|solutionrelative:do_an.gui\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|D:\\PhamNgocTu\\Do_An\\do_an.gui\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|solutionrelative:do_an.gui\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|D:\\PhamNgocTu\\Do_An\\do_an.gui\\themsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|solutionrelative:do_an.gui\\themsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|D:\\PhamNgocTu\\Do_An\\do_an.gui\\product.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|solutionrelative:do_an.gui\\product.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|D:\\PhamNgocTu\\Do_An\\do_an.gui\\themsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|solutionrelative:do_an.gui\\themsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|D:\\PhamNgocTu\\Do_An\\do_an.gui\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|solutionrelative:do_an.gui\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA761802-1B2E-49F3-B129-399C5F6AF09C}|Do_An.BUS\\Do_An.BUS.csproj|D:\\PhamNgocTu\\Do_An\\do_an.bus\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA761802-1B2E-49F3-B129-399C5F6AF09C}|Do_An.BUS\\Do_An.BUS.csproj|solutionrelative:do_an.bus\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30434137-96FF-48A8-ADF2-71B76D1FCE44}|Do_An.DAL\\Do_An.DAL.csproj|D:\\PhamNgocTu\\Do_An\\do_an.dal\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30434137-96FF-48A8-ADF2-71B76D1FCE44}|Do_An.DAL\\Do_An.DAL.csproj|solutionrelative:do_an.dal\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|D:\\PhamNgocTu\\Do_An\\do_an.gui\\editsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|solutionrelative:do_an.gui\\editsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|D:\\PhamNgocTu\\Do_An\\do_an.gui\\editsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2954FECA-3FA8-41F2-BA07-EF1F9E70A0B4}|Do_An.GUI\\Do_An.GUI.csproj|solutionrelative:do_an.gui\\editsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 213,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditSP.cs",
+              "DocumentMoniker": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\EditSP.cs",
+              "RelativeDocumentMoniker": "Do_An.GUI\\EditSP.cs",
+              "ToolTip": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\EditSP.cs",
+              "RelativeToolTip": "Do_An.GUI\\EditSP.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:44:18.175Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\Employee.cs",
+              "RelativeDocumentMoniker": "Do_An.GUI\\Employee.cs",
+              "ToolTip": "D:\\PhamNgocTu\\Do_an_Winform\\Do_An\\Do_An.GUI\\Employee.cs [Design]",
+              "RelativeToolTip": "..\\Do_an_Winform\\Do_An\\Do_An.GUI\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:18:57.82Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.Designer.cs",
+              "DocumentMoniker": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\Product.Designer.cs",
+              "RelativeDocumentMoniker": "Do_An.GUI\\Product.Designer.cs",
+              "ToolTip": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\Product.Designer.cs",
+              "RelativeToolTip": "Do_An.GUI\\Product.Designer.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAowC8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:15:27.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanPhamService.cs",
+              "DocumentMoniker": "D:\\PhamNgocTu\\Do_An\\Do_An.BUS\\SanPhamService.cs",
+              "RelativeDocumentMoniker": "Do_An.BUS\\SanPhamService.cs",
+              "ToolTip": "D:\\PhamNgocTu\\Do_An\\Do_An.BUS\\SanPhamService.cs",
+              "RelativeToolTip": "Do_An.BUS\\SanPhamService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:51:48.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\PhamNgocTu\\Do_An\\Do_An.DAL\\SanPham.cs",
+              "RelativeDocumentMoniker": "Do_An.DAL\\SanPham.cs",
+              "ToolTip": "D:\\PhamNgocTu\\Do_An\\Do_An.DAL\\SanPham.cs",
+              "RelativeToolTip": "Do_An.DAL\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:59:16.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditSP.cs [Design]",
+              "DocumentMoniker": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\EditSP.cs",
+              "RelativeDocumentMoniker": "Do_An.GUI\\EditSP.cs",
+              "ToolTip": "D:\\PhamNgocTu\\Do_an_Winform\\Do_An\\Do_An.GUI\\EditSP.cs [Design]",
+              "RelativeToolTip": "..\\Do_an_Winform\\Do_An\\Do_An.GUI\\EditSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:44:15.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThemSP.cs",
+              "DocumentMoniker": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\ThemSP.cs",
+              "RelativeDocumentMoniker": "Do_An.GUI\\ThemSP.cs",
+              "ToolTip": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\ThemSP.cs",
+              "RelativeToolTip": "Do_An.GUI\\ThemSP.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwGIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:43:30.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThemSP.cs [Design]",
+              "DocumentMoniker": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\ThemSP.cs",
+              "RelativeDocumentMoniker": "Do_An.GUI\\ThemSP.cs",
+              "ToolTip": "D:\\PhamNgocTu\\Do_an_Winform\\Do_An\\Do_An.GUI\\ThemSP.cs [Design]",
+              "RelativeToolTip": "..\\Do_an_Winform\\Do_An\\Do_An.GUI\\ThemSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:43:28.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\Product.cs",
+              "RelativeDocumentMoniker": "Do_An.GUI\\Product.cs",
+              "ToolTip": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\Product.cs",
+              "RelativeToolTip": "Do_An.GUI\\Product.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:25:25.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "D:\\PhamNgocTu\\Do_An\\Do_An.GUI\\Product.cs",
+              "RelativeDocumentMoniker": "Do_An.GUI\\Product.cs",
+              "ToolTip": "D:\\PhamNgocTu\\Do_an_Winform\\Do_An\\Do_An.GUI\\Product.cs [Design]",
+              "RelativeToolTip": "..\\Do_an_Winform\\Do_An\\Do_An.GUI\\Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:18:54.788Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 266,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
